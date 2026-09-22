@@ -1,6 +1,6 @@
 # In this i will try to create a simple rock paper scissors game
 # While this is a simple version, it can be expanded with more features later.
-# Will be using the knoledge of : variables, conditions, input and print functions.
+# Will be using the knowledge of : variables, conditions, input and print functions.
 
 print("Welcome to my simple Rock Paper Scissors game!")
 print("You will be playing against the computet.")
